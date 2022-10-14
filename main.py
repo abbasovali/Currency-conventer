@@ -1,3 +1,4 @@
+pip install forex_python
 
 
 import streamlit as st
