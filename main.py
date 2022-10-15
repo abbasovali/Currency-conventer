@@ -1,5 +1,5 @@
 
-
+!pip install -q streamlit
 
 import streamlit as st
 from forex_python.converter import CurrencyRates
