@@ -1,4 +1,4 @@
-!pip install "git+https://github.com/MicroPyramid/forex-python.git"
+
 import streamlit as st
 from forex_python.converter import CurrencyRates
 from datetime import date
