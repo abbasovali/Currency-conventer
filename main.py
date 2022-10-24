@@ -1,6 +1,6 @@
 
 import streamlit as st
-from forex_python.converter import CurrencyRates
+
 from datetime import date
 c = CurrencyRates()
 today = date.today()
